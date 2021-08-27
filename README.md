@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning JavaScript & ReactJS
 - 🤔 I am looking for help to find a company for an apprenticeship contract
 - 📫 How to reach me : <a href="mailto:bourdeltheo@gmail.com">here</A>
 
