@@ -3,9 +3,8 @@
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Git & Sass
-- 🤔 I am looking for help to find a company for an apprenticeship contract
+- 🔭 I’m currently working on ReactJS
+- 🌱 I’m currently learning Sass / PHP (mvc)
 - 📫 How to reach me : <a href="mailto:bourdeltheo@gmail.com">here</A>
 
 
