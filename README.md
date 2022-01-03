@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on ReactJS
+- 🔭 I’m currently working on ReactJS / NextJS
 - 🌱 I’m currently learning Sass / PHP (mvc)
 - 📫 How to reach me : <a href="mailto:bourdeltheo@gmail.com">here</A>
 
