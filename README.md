@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working on ReactJS / NextJS
-- 🌱 I’m currently learning Sass / PHP (mvc)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Symfony / VueJS
 - 📫 How to reach me : <a href="mailto:bourdeltheo@gmail.com">here</A>
 
 
